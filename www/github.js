@@ -1,4 +1,4 @@
-var API_BASE_URL = "http://localhost:8080/entrega.api/myresource";
+var API_BASE_URL = "http://147.83.7.200:8080/entrega.api/myresource";
 
 
 /*
